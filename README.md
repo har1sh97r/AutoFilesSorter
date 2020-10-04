@@ -1,7 +1,7 @@
 #                      AutoFilesSorter
 
 <p align="center"><img src="https://i.imgur.com/eizY6Fi.png"/></p>
-[![License Badge](https://img.shields.io/badge/license-GPL-blue.svg)](LICENSE)
+
 <h3>This is a python script which sorts your files into its folder in the directory in which the script is running.</h3>
 
 # Explanation :-
