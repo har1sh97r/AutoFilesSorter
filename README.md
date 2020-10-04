@@ -23,5 +23,5 @@ After you run the main.py
 
 # How To Use :-
 
-Run The main.py in the directory in which you want your files should be sorted.Then it will do all the stuff on its own.
+Run The main.py in the directory in which you want your files should be sorted. Then it will do all the stuff on its own.
 
